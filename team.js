@@ -9,5 +9,15 @@ let variable=[{
     favoriteFilm : "El Señor de los Anillos",
     favoriteBook : "Berserk",
     petName : "Kino"
-}];
-
+},{
+    name: "Ana",
+    surname: "Montes",
+    age: 22,
+    city: "Arteixo",
+    hobby: "jugar",
+    favoriteFood: "lasaña",
+    favoriteVideoGame: "Palia",
+    favoriteFilm: "Señor de los Anillos",
+    favoriteBook: "Epic",
+    petName: "Kenma",
+}]

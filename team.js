@@ -1,14 +1,14 @@
 let variable=[];
 
 let object = {
-    name: "Ana",
-    surname: "Montes",
-    age: 22,
-    city: "Arteixo",
+    name: "Karim",
+    surname: "Felus",
+    age: 26,
+    city: "Barcelona",
     hobby: "jugar",
-    favoriteFood: "lasaña",
-    favoriteVideoGame: "Palia",
-    favoriteFilm: "Señor de los Anillos",
-    favoriteBook: "Epic",
-    petName: "Kenma",
+    favoriteFood: "Paella",
+    favoriteVideoGame: "Fifa",
+    favoriteFilm: "Tenet",
+    favoriteBook: "Harry Potter Saga",
+    petName: "Misha",
 };

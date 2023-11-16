@@ -8,7 +8,7 @@ let variable=[{
     favoriteVideoGame : "League of Legends",
     favoriteFilm : "El Señor de los Anillos",
     favoriteBook : "Berserk",
-    petName : "Kino"
+    petName : "Kino",
 },{
     name: "Ana",
     surname: "Montes",
@@ -31,4 +31,16 @@ let variable=[{
     favoriteFilm: "Tenet",
     favoriteBook: "Harry Potter Saga",
     petName: "Misha",
-},]
+},{
+    nombre: "Javier",
+    apellido:"Ruiz",
+    edad: 30,
+    ciudad: "Malaga",
+    pasatiempo: "Programar",
+    comidaFavorita: "Croquetas",
+    videojuegoFavorito: "F1",
+    peliculaFavorita: "Cualquiera de Batman",
+    libroFavorito: "Comic de Eterno Hallowen de Batman",
+    nombreMascota: "No tengo",
+}]
+

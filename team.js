@@ -1,18 +1,46 @@
-let variable=[];
-const nuevoObjeto = {
-    
-
-nombre: "Javier",
-apellido:"Ruiz",
-edad:30,
-ciudad: "Malaga",
-pasatiempo: "Programar",
-comidaFavorita: "Croquetas",
-videojuegoFavorito: "F1",
-peliculaFavorita: "Cualquiera de Batman",
-libroFavorito: "Comic de Eterno Hallowen de Batman",
-nombreMascota: "No tengo",
-}
-
-
+let variable=[{
+    name : "Jose Vicente",
+    surname : "Jimenez Chamizo",
+    age : "27",
+    city : "Málaga",
+    hobby : "Videojuegos",
+    favoriteFood : "Pastel de carne",
+    favoriteVideoGame : "League of Legends",
+    favoriteFilm : "El Señor de los Anillos",
+    favoriteBook : "Berserk",
+    petName : "Kino",
+},{
+    name: "Ana",
+    surname: "Montes",
+    age: 22,
+    city: "Arteixo",
+    hobby: "jugar",
+    favoriteFood: "lasaña",
+    favoriteVideoGame: "Palia",
+    favoriteFilm: "Señor de los Anillos",
+    favoriteBook: "Epic",
+    petName: "Kenma",
+},{    
+    name: "Karim",
+    surname: "Felus",
+    age: 26,
+    city: "Barcelona",
+    hobby: "jugar",
+    favoriteFood: "Paella",
+    favoriteVideoGame: "Fifa",
+    favoriteFilm: "Tenet",
+    favoriteBook: "Harry Potter Saga",
+    petName: "Misha",
+},{
+    nombre: "Javier",
+    apellido:"Ruiz",
+    edad: 30,
+    ciudad: "Malaga",
+    pasatiempo: "Programar",
+    comidaFavorita: "Croquetas",
+    videojuegoFavorito: "F1",
+    peliculaFavorita: "Cualquiera de Batman",
+    libroFavorito: "Comic de Eterno Hallowen de Batman",
+    nombreMascota: "No tengo",
+}]
 

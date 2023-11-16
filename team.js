@@ -13,8 +13,6 @@ peliculaFavorita: "Cualquiera de Batman",
 libroFavorito: "Comic de Eterno Hallowen de Batman",
 nombreMascota: "No tengo",
 }
-variable.push(nuevoObjeto);
 
-console.log(variable);
 
 

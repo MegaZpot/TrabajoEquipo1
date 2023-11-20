@@ -42,5 +42,16 @@ let variable=[{
     favoriteFilm: "Cualquiera de Batman",
     favoriteBook: "Comic de Eterno Hallowen de Batman",
     petName: "No tengo",
+},{
+    name: "Javi",
+    surname:"Hueso",
+    age: 23,
+    city: "Valencia",
+    hobby: "Cine",
+    favoriteFood: "Paella",
+    favoriteVideoGame: "CoD",
+    favoriteFilm: "Harry Potter",
+    favoriteBook: "Lord of the Rings",
+    petName: "Pepe",
 }]
 
